@@ -1,9 +1,9 @@
-vCard - Personal Portfolio
+Aayush Raj Regmi
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Aayush Raj Regmi
+Aayush Raj Regmi
 Web developer
 
 Show Contacts
